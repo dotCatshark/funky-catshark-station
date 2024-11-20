@@ -227,6 +227,9 @@
     - DoorBumpOpener
     - AnomalyHost
     - VoxEmotes
+  - type: FootPrints # Port from EE, blood splatter
+    leftBarePrint: "footprint-left-bare-lizard"
+    rightBarePrint: "footprint-right-bare-lizard"
 
 - type: entity
   parent: BaseSpeciesDummy

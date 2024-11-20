@@ -405,6 +405,8 @@
   - type: CanEscapeInventory # GoobStation - Escape being picked up by players
   - type: SurgeryContaminable # DeltaV - surgery cross contamination
   - type: CosmicCenserTarget # DeltaV - Cosmic Cult
+  - type: PotentialPsionic # DeltaV - organic species can all be psionic
+  - type: FootPrints # Port from EE, blood splatter
 
 - type: entity
   save: false
